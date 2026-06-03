@@ -36,6 +36,7 @@ Passionnée par la sécurité des systèmes d'information, je développe des com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuella%20Maziti-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuella-maziti-49178a252)
 
 manuellamaziti@gmail.com
+
 ---
 
 > *"Penser Cyber, Agir Cyber." — Manuella MAZITI*
