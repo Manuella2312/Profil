@@ -1,5 +1,5 @@
 # Profil
-# Bonjour, je suis Manuella MAZITI étudiante en **Cybersécurité** à ECOLE-IT (Orléans)  Orientée **DevSecOps · SSI · GRC**  
+Bonjour, je suis Manuella MAZITI étudiante en **Cybersécurité** à ECOLE-IT (Orléans)  Orientée **DevSecOps · SSI · GRC**  
 📍 France
 
 ---
